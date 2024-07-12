@@ -4,7 +4,7 @@
   "description": "micro fromt end using webpack demo",
   "main": "index.js",
   "scripts": {
-    "start" : "webpack"
+    "start" : "webpack serve"
   },
   "author": "",
   "license": "ISC",
