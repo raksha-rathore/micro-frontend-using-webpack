@@ -1,8 +1,15 @@
-A simple micro front end demo using plain JS and Webpack 5
+A simple <b>micro front end demo</b> using plain JS and <b>Webpack 5</b>
 
-Host Application - container 
-Remote Application - products
+<ul>
+  <li>Host Application - container </li>
+  <li>Remote Application - products</li>
+</ul>
+
+
 
 Go to indivisual folder and run
-1.) npm install
-2.) npm start
+<ol>
+  <li>npm install</li>
+  <li>npm start</li>
+</ol>
+
